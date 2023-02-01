@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=biraj-thapa&label=Profile%20views&color=0e75b6&style=flat" alt="biraj-thapa" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=biraj-thapa" alt="biraj-thapa" /></a> </p>
-
 - 🌱 I’m currently learning **HTML,CSS,JAVASCRIPT**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Biraj-Thapa](https://github.com/Biraj-Thapa)
