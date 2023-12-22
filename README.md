@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=biraj-thapa&label=Profile%20views&color=0e75b6&style=flat" alt="biraj-thapa" /> </p>
 
-- 🌱 I’m currently learning **HTML,CSS,JAVASCRIPT,React,MongoDB,NodeJs,ExpressJs**
+- 🌱 I’m currently learning **HTML,CSS,JavaScript,React,MongoDB,NodeJs,ExpressJs**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Biraj-Thapa](https://github.com/Biraj-Thapa)
 
